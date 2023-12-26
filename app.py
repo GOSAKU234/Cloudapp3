@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  3 21:11:12 2020
 
-@author: pattn
-"""
 
 
 # coding: utf-8
